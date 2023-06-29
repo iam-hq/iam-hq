@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @iam-hq
-- 👀 I’m interested in Java, Laravel, Flutter.
-- 🌱 I’m currently learning Flutter, Machine Learning, Deep Learning
+- 👋 Hi, I’m Happy Lakudzala
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +265888066526 (WhatsApp)
+- 📫 How to reach me 
 
 <!---
 iam-hq/iam-hq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
